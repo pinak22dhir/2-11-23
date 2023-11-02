@@ -282,4 +282,3 @@ int main(){
     A obj(5);
 print(obj);
 
-}
